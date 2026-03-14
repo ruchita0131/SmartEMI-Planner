@@ -59,10 +59,4 @@ The core of this project is a LangGraph StateGraph with 5 specialized agents:
 - Profile dropdown with user details
 ```
 
-Click **Commit changes**.
 
----
-
-That's it. Now you have **one link to share**:
-```
-https://github.com/ruchita0131/SmartEMI-Planner
