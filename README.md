@@ -3,7 +3,9 @@
 An agentic AI system for personal loan optimization. Users enter their income, 
 expenses, and loans — a 5-agent LangGraph pipeline analyzes their financial 
 situation and generates personalized debt repayment advice powered by Google Gemini.
-
+## Repositories
+- Backend: https://github.com/ruchita0131/smartemi
+- Frontend: https://github.com/ruchita0131/smartemi-frontend
 ## Live Application
 
 | | Link |
